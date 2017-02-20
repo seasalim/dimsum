@@ -1,0 +1,11 @@
+[package]
+name = "dimsum"
+version = "0.1.0"
+authors = ["Salim Alam"]
+repository = "https://github.com/seasalim/dimsum"
+description = "Simple multi-dimensional array library"
+categories = ["data-structures"]
+keywords = ["dimension", "multi-dimension", "array", "vector", "n-dimension"]
+license = "Apache-2.0"
+
+[dependencies]
